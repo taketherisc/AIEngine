@@ -13,6 +13,9 @@ type AgentParameters = {
 	Costs: {
 		[string]: number,
 	}?,
+	PathSettings: {
+		SupportPartialPath: boolean,
+	},
 }
 
 local RunService = game:GetService("RunService")
