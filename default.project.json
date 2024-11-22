@@ -1,6 +1,14 @@
 {
 	"name": "AIEngine",
 	"tree": {
-		"$path": "./src"
+		"$className": "DataModel",
+		"ServerScriptService": {
+			"AIEngine": {
+				"$path": "Source"
+			},
+			"Examples": {
+				"$path": "Examples"
+			}
+		}
 	}
 }
