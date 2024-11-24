@@ -14,3 +14,6 @@ aftman.toml
 
 # private files
 .private/
+
+# Build omit
+Build/

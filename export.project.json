@@ -1,0 +1,12 @@
+{
+    "name": "AIEngine",
+    "tree": {
+        "$className": "Folder",
+        "AIEngine": {
+            "$path": "Source"
+        },
+        "Examples": {
+            "$path": "Examples"
+        }
+    }
+}
