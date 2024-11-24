@@ -2,11 +2,6 @@
 	"name": "AIEngine",
 	"tree": {
 		"$className": "DataModel",
-		"Workspace": {
-			"$properties": {
-				"PathfindingUseImprovedSearch": true
-			}
-		},
 		"ServerScriptService": {
 			"AIEngine": {
 				"$path": "Source"
